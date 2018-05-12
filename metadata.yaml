@@ -1,0 +1,35 @@
+_repo: The-Complete-Works-of-Richard-Crashaw-Volume-I_38549
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38549-h/images/cover1.png
+creator:
+  author:
+    agent_name: Crashaw, Richard
+    deathdate: 1649
+    gutenberg_agent_id: '39532'
+    url: http://www.gutenberg.org/2009/agents/39532
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Crashaw
+  editor:
+    agent_name: Grosart, Alexander Balloch
+    aliases:
+    - Grosart, A. B. (Alexander Balloch)
+    - Grosart, Alexander B.
+    birthdate: 1827
+    deathdate: 1899
+    gutenberg_agent_id: '6786'
+    url: http://www.gutenberg.org/2009/agents/6786
+description: ''
+gutenberg_issued: '2012-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+- !lcc 'PR'
+title: The Complete Works of Richard Crashaw, Volume I
+url: http://www.gutenberg.org/ebooks/38549
